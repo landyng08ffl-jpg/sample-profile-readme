@@ -1,28 +1,26 @@
-?
-# Hello! My name is Landyn! Welcome to My GitHub Profile
+# 👋 Hi, I'm Landyn Guldenpfennig
+
+---
 
 ## About Me
-I am a student at the University of Texas at San Antonio,
-majoring in Applied Cyber Analytics. I am interested in
-cybersecurity, technology, and software development.
 
-## Technical Skills
-- Programming & Scripting: Bash, PowerShell
-- Tools: Git, GitHub, Visual Studio Code
-- Operating Systems: macOS, Windows, Kali Linux
-- Version Control: Git repositories, commits, and branches
+I am a student at the University of Texas at San Antonio majoring in Applied Cyber Analytics.  
+I am interested in cybersecurity, technology, and continuing to build my technical skills through hands-on projects and coursework.
 
-## Interests
-- Cybersecurity and ethical hacking
-- Software and application development
-- Financial markets and trading
-- Technology and innovation
+## 🛠 Skills
 
-## Current Learning Goals
-- Improve my Python programming skills
-- Learn more about network security
-- Develop my understanding of penetration testing
-- Build more personal software projects
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## Connect With Me
-- GitHub: https://github.com/landyng08ffl-jpg
+## 🎉 Interests
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF7F11?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E90FF?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-2EA043?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landyng08ffl-jpg)
+
+*"Strive not to be a success, but rather to be of value."*
