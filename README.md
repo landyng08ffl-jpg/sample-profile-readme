@@ -19,8 +19,12 @@ I am interested in cybersecurity, technology, and continuing to build my technic
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E90FF?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-2EA043?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landyng08ffl-jpg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landyn-guldenpfennig-00b823447/)
 
 *"Strive not to be a success, but rather to be of value."*
